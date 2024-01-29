@@ -1,0 +1,4 @@
+version: 3
+endpoint: http://graphql-engine:8080
+database: test
+admin_secret: password

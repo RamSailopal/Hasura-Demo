@@ -1,0 +1,1 @@
+INSERT INTO players (name, address) VALUES ('Bob Taylor', 'Somewhere or other else');

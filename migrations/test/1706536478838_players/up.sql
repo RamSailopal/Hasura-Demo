@@ -1,0 +1,1 @@
+CREATE TABLE players ( Name varchar(255), Address varchar(255), PRIMARY KEY (Name));
